@@ -1,0 +1,12 @@
+This document explains the meaning of the event mark recorded in the EEG data：
+
+17: the end of 3 minute resting state with eyes-closed
+19: the end of 3 minute resting state with eyes-open
+101: the start of watching 'neutral' video
+102: the start of watching 'fear' video
+103: the start of watching 'sad' video
+104: the start of watching 'happy' video
+105: the start of watching 'anger' video
+106: the start of watching 'disgust' video
+20: the end of watching each video
+21: the end of the rest with eyes-closed after watching each video
